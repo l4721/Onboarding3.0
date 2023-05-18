@@ -1,0 +1,15 @@
+
+/*
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/stack //braucht es das?
+npm install @react-navigation/native-stack
+
+npm install @react-native-async-storage/async-storage
+
+//https://callstack.github.io/react-native-paper/docs/guides/getting-started/
+npm install react-native-paper
+npm install react-native-safe-area-context
+npm install react-native-vector-icons
+
+*/
